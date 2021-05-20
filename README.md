@@ -1,4 +1,4 @@
-# Blog
+# Project Summary
 I created this blog in order learn more about the flask web framework. Although not an exact copy, this application is heavily inspired by Corey Schafer's flask tutorials on youtube.
 
 # Running the application
